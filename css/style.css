@@ -132,7 +132,7 @@ h5 {
 .navigation .top_line .logo {
     display: block;
     margin-left: 35px;
-    background-image: url(/img/logo.png);
+    background-image: url(https://surreum.github.io/HU_02_12_2018_Groshev_HW1/img/logo.png);
     width: 133px;
     height: 39px;
     background-repeat: no-repeat;
@@ -199,7 +199,7 @@ h5 {
     height: 120px;
     display: inline-block;
     float: right;
-    background-image: url(/img/badge.png);
+    background-image: url(https://surreum.github.io/HU_02_12_2018_Groshev_HW1/img/badge.png);
     background-repeat: no-repeat;
     margin-top: -140px;
     margin-right: -130px;
@@ -265,8 +265,8 @@ h5 {
 .appcardwrapper {
     display: grid;
     justify-content: center;
-    grid-template-columns: repeat(3, 0fr);
-    grid-template-rows: repeat(3, 240px);
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 244px);
 
 }
 
